@@ -4,6 +4,6 @@
 
 👋 Hi, I’m yelim
 
-<img src="[https://img.shields.io/badge](http://www.w3.org/2000/svg)/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 
