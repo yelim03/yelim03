@@ -4,7 +4,7 @@
 
 👋 Hi, I’m yelim
 
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Notion&logoColor=black">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=black">
 
 
 
