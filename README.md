@@ -4,12 +4,12 @@
   
 <h1>👋 Hi, I’m yelim</h1>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelim03&show_icons=true&theme=transparent)
 
 <h3>💻 DEVELOP TECH</h3>
 <br>
 
-<p style=><img src="https://img.shields.io/badge/:badgeContent/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"><br><img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></p>
+<p style=><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"><br><img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></p>
 
 <h3>🪅 DEGIGN TECH</h3>
 bhr>
