@@ -2,7 +2,7 @@
   
 <h1>👋 Hi, I’m yelim</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelim03&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelim03&layout=compact)
 
 <h3>💻 DEVELOP TECH</h3>
 <br>
