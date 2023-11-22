@@ -12,9 +12,7 @@
 <p><img src="https://img.shields.io/badge/-PhotoShop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"> <br><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></p>
 
 
-<h5>✏️STUDY</h5>
-<a href="">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-</a>
+<h5>🤝CONTACT</h5>
+<a href="mailto:kym5570@naver.com"><img src="https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kym5570@naver.com"/></a>
 
 </div>
